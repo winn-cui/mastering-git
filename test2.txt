@@ -1,0 +1,3 @@
+figure out how to look at files in Cache
+modifying a file
+comparing git log for local vs remote commits
